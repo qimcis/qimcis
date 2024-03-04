@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Chi and I'm an aspiring Software Developer from Canada. Here's some info about me!
+
+
+
+🌱 Interests:
+- Web development
+- Machine Learning
+- Illustration and Painting 
+    
+⚡ Languages:
+- Python
+- HTML/CSS
+  
+
+  
 <!--
 **qimcis/qimcis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
