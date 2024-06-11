@@ -9,9 +9,11 @@ My name is Chi and I'm an aspiring Software Developer from Canada. Here's some i
 - Machine Learning
 - Illustration and Painting 
     
-⚡ Languages:
+⚡ Languages and Frameworks
 - Python
 - HTML/CSS
+- Flask
+- SQLite
   
 
   
