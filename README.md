@@ -14,6 +14,8 @@ My name is Chi and I'm an aspiring Software Developer from Canada. Here's some i
 - HTML/CSS
 - Flask
 - SQLite
+- Javascript
+- ReactJS
   
 
   
