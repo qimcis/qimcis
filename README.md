@@ -1,22 +1,14 @@
 ### Hi there 👋
 
-My name is Chi and I'm an aspiring Software Developer from Canada. Here's some info about me!
+My name is Chi and I'm an aspiring Software Developer and Founder from Canada
 
-
-
-🌱 Interests:
-- Web development
-- Machine Learning
-- Illustration and Painting 
+🌱 Interests: building projects that I believe in.
     
-⚡ Languages and Frameworks
-- Python
-- HTML/CSS
-- Flask
-- SQLite
-- Javascript
-- ReactJS
-- NextJS
+**Languages**: Python, Javascript, Typescript, HTML, CSS, SQL
+
+**Technologies**: React.js, Next.js, TailwindCSS, Flask, SQLite, PostgreSQL, Git, Supabase, AWS, Django, TailwindCSS,  Figma
+
+**Tools**:  Git, Flask, SQLite, PostgreSQL, Supabase, AWS, Django,  Figma, AWS S3
   
 
   
