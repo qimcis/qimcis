@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chi and I'm an aspiring Software Developer and Founder from Canada
+My name is Chi and I'm an aspiring Software Developer from Canada
 
 🌱 Interests: building projects that I believe in.
     
