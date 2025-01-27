@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Chi and I'm an aspiring Software Developer from Canada
+ Hey! I'm Chi, I'm passionate about building projects that I believe in.
 
-🌱 Interests: building projects that I believe in.
+ Currently swe @ Chromatic Data and Hivenue
     
 **Languages**: Python, Javascript, Typescript, HTML, CSS, SQL
 
