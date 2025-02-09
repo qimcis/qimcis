@@ -2,7 +2,9 @@
 
  Hey! I'm Chi, I'm passionate about building projects that I believe in.
 
- Currently swe @ Chromatic Data and Hivenue
+ Currently SWE @ Chromatic Data
+
+ Building https://www.readpearl.com/
     
 **Languages**: Python, Javascript, Typescript, HTML, CSS, SQL
 
