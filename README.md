@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hey! I'm Chi, I'm passionate about building projects that I believe in.
+ I'm Chi, I'm passionate about building projects that I believe in.
 
  Currently SWE @ Chromatic Data
 
