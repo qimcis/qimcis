@@ -8,9 +8,9 @@
     
 **Languages**: Python, Javascript, Typescript, HTML, CSS, SQL
 
-**Technologies**: React.js, Next.js, TailwindCSS, Flask, SQLite, PostgreSQL, Git, Supabase, AWS, Django, TailwindCSS,  Figma
+**Technologies**: React.js, Next.js, TailwindCSS, Flask, SQLite, PostgreSQL, Supabase, AWS, Django, TailwindCSS, S3
 
-**Tools**:  Git, Flask, SQLite, PostgreSQL, Supabase, AWS, Django,  Figma, AWS S3
+**Tools**:  Git, Figma, Jira, Confluence
   
 
   
