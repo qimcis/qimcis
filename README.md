@@ -3,6 +3,7 @@
  I'm Chi, I'm passionate about building projects that I believe in.
 
  Currently SWE @ Clover Labs
+ 
  Building https://www.readpearl.com/
     
 **Languages**: Python, Javascript, Typescript, HTML, CSS, SQL
