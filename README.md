@@ -6,11 +6,11 @@
  
  Building https://www.readpearl.com/
     
-**Languages**: Python, Javascript, Typescript, HTML, CSS, SQL
+**Languages**: Python, Java, Javascript, Typescript, HTML, CSS, SQL
 
-**Technologies**: React.js, Next.js, TailwindCSS, Flask, SQLite, PostgreSQL, Supabase, AWS, Django, TailwindCSS, S3
+**Technologies/Frameworks**: React, React Native, Next.js, Express.js, Supabase, Firebase, Flask, PostgreSQL, Redis, Jest, Puppeteer, RAG, PyTorch, GraphQL, TailwindCSS, SQLite, PostgreSQL, Django, AWS RDS, AWS S3, TailwindCSS, Angular, MongoDB
 
-**Tools**:  Git, Figma, Jira, Confluence
+**Tools**:  Git, Figma, Excel, VSCode, Cursor, Heroku, Vercel, Docker, Azure, Jupyter Notebook, Jira, Confluence
   
 
   
