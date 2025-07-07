@@ -2,7 +2,7 @@
 
  I'm Chi, I'm passionate about building projects that I believe in.
 
- Currently SWE @ Clover Labs
+ Currently Founding Engineer @ Clover Labs
     
 **Languages**: Python, Java, Javascript, Typescript, HTML, CSS, SQL
 
