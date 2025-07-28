@@ -1,10 +1,10 @@
 ### Hi there 👋
 
- I'm Chi, I'm passionate about building projects that I believe in.
+I'm Chi, I'm passionate about building projects that I believe in.
 
- Currently Founding Engineer @ Clover Labs
+Currently Founding Engineer @ Clover Labs
     
-Interesting in machine learning engineering, LLM inference, and data pipelines!
+Learning about machine learning engineering, llm inference, and data pipelines!
   
 
   
