@@ -4,11 +4,7 @@
 
  Currently Founding Engineer @ Clover Labs
     
-**Languages**: Python, Java, Javascript, Typescript, HTML, CSS, SQL
-
-**Technologies/Frameworks**: React, React Native, Next.js, Express.js, Supabase, Firebase, Flask, PostgreSQL, Redis, Jest, Puppeteer, RAG, PyTorch, GraphQL, TailwindCSS, SQLite, PostgreSQL, Django, AWS RDS, AWS S3, TailwindCSS, Angular, MongoDB
-
-**Tools**:  Git, Figma, Excel, VSCode, Cursor, Heroku, Vercel, Docker, Azure, Jupyter Notebook, Jira, Confluence
+Interesting in machine learning engineering, LLM inference, and data pipelines!
   
 
   
