@@ -4,7 +4,7 @@ I'm Chi, I'm passionate about building projects that I believe in.
 
 Currently Founding Engineer @ Clover Labs
     
-Learning about machine learning engineering, llm inference, and data pipelines!
+Learning about llm inference, training optimization, and data pipelines!
   
 
   
