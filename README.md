@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Chi, I'm passionate about building projects that I believe in.
 
 Currently Founding Engineer @ Clover Labs
