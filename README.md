@@ -1,4 +1,4 @@
-I'm Chi, I'm passionate about building projects that I believe in.
+I'm Chi, I'm passionate about working on projects that I believe in.
 
 Currently Founding Engineer @ Clover Labs
     
