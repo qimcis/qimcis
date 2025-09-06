@@ -2,7 +2,7 @@ I'm Chi, I'm passionate about working on projects that I believe in.
 
 Currently Founding Engineer @ Clover Labs
     
-Learning about llm inference and reasoning!
+Learning about llm inference and ml efficiency!
   
 
   
