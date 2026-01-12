@@ -1,6 +1,4 @@
-I'm Chi, I'm passionate about working on projects that I believe in.
-    
-Learning about mlsys
+
   
 
   
